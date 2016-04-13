@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru16wissgoog_0565.png"; bbox 0 0 3025 4967; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 1668 1072 2006">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 1668 1072 2006">
+     <span class='ocr_line' id='line_1_1' title="bbox 592 1668 686 1767; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 592 1668 686 1767; x_wconf 87' lang='lat' dir='ltr'><strong>XII.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 262 1882 1072 2006; baseline 0.002 -3"><span class='ocrx_word' id='word_1_2' title='bbox 262 1882 459 2005; x_wconf 79' lang='lat' dir='ltr'>&#39;PHASCI</span> <span class='ocrx_word' id='word_1_3' title='bbox 498 1904 714 2005; x_wconf 67' lang='lat' dir='ltr'><strong>offlam</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 754 1906 1014 2006; x_wconf 80' lang='lat' dir='ltr'><strong>OYPRIANI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1068 1946 1072 1954; x_wconf 94' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 160 2165 1120 2280">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 160 2165 1120 2280">
+     <span class='ocr_line' id='line_1_3' title="bbox 160 2165 1120 2280; baseline 0.001 -3"><span class='ocrx_word' id='word_1_6' title='bbox 160 2166 259 2277; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 311 2165 524 2279; x_wconf 86' lang='lat' dir='ltr'>BONO</span> <span class='ocrx_word' id='word_1_8' title='bbox 576 2166 1120 2280; x_wconf 78' lang='lat' dir='ltr'><strong>PATIENTIAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1518 4967">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1518 4967">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1518 4967; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1518 4967; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
